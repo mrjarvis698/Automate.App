@@ -1,4 +1,6 @@
-﻿namespace Automate;
+﻿using SwaraAutomate;
+
+namespace Automate;
 
 public partial class AppShell : Shell
 {
